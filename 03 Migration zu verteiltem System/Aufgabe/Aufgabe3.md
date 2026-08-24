@@ -33,10 +33,5 @@ Wer mit wem zusammenarbeitet:
 * **Fortschrittsservice <-> Reporting** – liefert Rohdaten für Berichte
 * **Benutzerservice -> Reporting** *(gestrichelt)* – Reporting aggregiert zusätzlich Nutzerdaten, ohne im Alltag direkt gekoppelt zu sein
 
-## 4\. Hinweis
-
-* Prüfungs- und Fortschrittsservice zu einem Service zusammenlegen
-* Kommunikation weiter aufteilen (Nachrichten vs. Forum als getrennte Services)
-
 
 
